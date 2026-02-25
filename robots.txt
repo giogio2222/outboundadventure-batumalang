@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://outbound-adventure-batumalang.netlify.app/sitemap.xml
+Sitemap: https://outboundadventure-batumalang.netlify.app/sitemap.xml
